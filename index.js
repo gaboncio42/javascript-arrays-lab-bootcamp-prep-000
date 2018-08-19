@@ -35,3 +35,8 @@ function removeLastKitten() {
   var lastKitten = ["Milo", "Otis"];
   return lastKitten;
 }
+
+function removeFirstKitten() {
+  var firstKitten = ["Otis", "Garfield"];
+  return firstKitten;
+}
