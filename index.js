@@ -23,5 +23,5 @@ function destructivelyRemoveFirstKitten() {
 
 function appendKitten(name) {
   var broom = ["Broom"];
-  
+  return 
 }
