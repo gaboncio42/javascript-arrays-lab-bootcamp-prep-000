@@ -12,6 +12,6 @@ function destructivelyPrependKitten(name) {
 }
 
 function destructivelyRemoveLastKitten() {
-  kittens.splice();
+  kittens.splice(2,1);
   return kittens;
 }
